@@ -1,5 +1,4 @@
 //Stack in JavaScript
-//code step by step
 
 let data = [];
 let currentSize = data.length;
